@@ -1,0 +1,8 @@
+#Fri Jul 19 22:14:46 ICT 2024
+shadowDistance=128.0
+SHADOW_FILTER=false
+REFLECTION=0
+shadowMapResolution=512
+SHADOW_COLOR=false
+ADVANCED_MATERIALS=false
+SELF_SHADOW=false

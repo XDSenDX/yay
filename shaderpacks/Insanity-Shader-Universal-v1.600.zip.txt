@@ -1,0 +1,4 @@
+#Sun Jun 09 18:07:17 ICT 2024
+shadowDistance=128.0
+REFLECTION=1
+shadowMapResolution=1024
