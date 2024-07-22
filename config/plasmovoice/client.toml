@@ -29,6 +29,10 @@ stereo_capture = false
 
 [voice.volumes.proximity]
 volume = 1.0
+[voice.volumes.source_4c247c68-f1d9-4ea2-8834-548286ed204f]
+volume = 1.0
+[voice.volumes.source_77b5cce3-e18e-40b5-b341-8c3f13ea4654]
+volume = 1.0
 
 [advanced]
 visualize_voice_distance = true
