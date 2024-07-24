@@ -27,7 +27,13 @@ directional_sources = false
 hrtf = false
 stereo_capture = false
 
+[voice.volumes.source_9ea69569-eb67-4da8-8313-af219130a739]
+volume = 1.0
 [voice.volumes.proximity]
+volume = 1.0
+[voice.volumes.source_996aad26-0612-4911-8139-249d0598dd5d]
+volume = 1.0
+[voice.volumes.source_10e8f56c-616d-48e8-803d-cd0b44f47c83]
 volume = 1.0
 [voice.volumes.source_4c247c68-f1d9-4ea2-8834-548286ed204f]
 volume = 1.0
