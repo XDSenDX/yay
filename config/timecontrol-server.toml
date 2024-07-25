@@ -1,7 +1,7 @@
 
 [system_time]
 	#Synchronize game world time with system time
-	sync_to_system_time = true
+	sync_to_system_time = false
 	#Indicates the rate at which time synchronization with the system occurs, measured in ticks
 	#Range: 1 ~ 864000
 	sync_to_system_time_rate = 20

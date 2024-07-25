@@ -27,9 +27,17 @@ directional_sources = false
 hrtf = false
 stereo_capture = false
 
+[voice.volumes.source_9a7e7345-6500-4e52-b516-5d781a0e46ca]
+volume = 1.0
+[voice.volumes.source_9b164fe0-ba3b-4af3-87e9-698d021e76d1]
+volume = 1.0
+[voice.volumes.source_e40ad6a6-4f59-4974-8b6d-7b9a4bc5aed7]
+volume = 1.0
 [voice.volumes.source_9ea69569-eb67-4da8-8313-af219130a739]
 volume = 1.0
 [voice.volumes.proximity]
+volume = 1.0
+[voice.volumes.source_0b69fc5d-34a8-4a1b-a682-e8b024b6bdeb]
 volume = 1.0
 [voice.volumes.source_996aad26-0612-4911-8139-249d0598dd5d]
 volume = 1.0
