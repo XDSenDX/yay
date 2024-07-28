@@ -57,6 +57,8 @@ volume = 1.0
 volume = 1.0
 [voice.volumes.source_0dda2b0c-45a4-4ec9-a520-78e75ad4fa17]
 volume = 1.0
+[voice.volumes.source_18212bdb-4609-4917-aaa8-58b9fff49cc9]
+volume = 1.0
 
 [advanced]
 visualize_voice_distance = true
